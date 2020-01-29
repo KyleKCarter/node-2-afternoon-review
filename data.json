@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "movie": "Taxi Driver",
+        "character": "Travis Bickle",
+        "quote": "You talking to me?"
+    },
+    {
+        "id": 1,
+        "movie": "Jaws",
+        "character": "Martin Brody",
+        "quote": "You're gonna need a bigger boat."
+    },
+    {
+        "id": 2,
+        "movie": "The Wizard of Oz",
+        "character": "Dorothy Gale",
+        "quote": "Toto, I've got a feeling we're not in Kansas anymore."
+    },
+    {
+        "id": 3,
+        "movie": "Back to the Future",
+        "character": "Dr. Emmett Brown",
+        "quote": "Roads? Were we're going, we don't need roads."
+    },
+    {
+        "id": 4,
+        "movie": "Star Wars: Episode V",
+        "character": "Master Yoda",
+        "quote": "Do, or do not. There is no try."
+    },
+    {
+        "id": 5,
+        "movie": "Good Will Hunting",
+        "character": "Will Hunting",
+        "quote": "How do you like them apples?"
+    }
+]
